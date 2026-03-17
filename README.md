@@ -3,7 +3,7 @@
 A responsive landing page built to capture leads through a functional contact form integrated with EmailJS.
 
 ## 🚀 Live Demo
-[View Live](#) <!-- we'll update this link after deployment -->
+[View Live](https://gabrieladelucca.github.io/lead-capture-landing-page/)
 
 ## 🛠️ Built With
 - HTML5
@@ -30,4 +30,4 @@ lead-capture-landing-page/
 ```
 
 ## 🎯 Purpose
-This project was built as a portfolio piece to demonstrate frontend development skills including responsive design, form handling, and third-party API integration.
+This project was built as a portfolio piece to demonstrate frontend development skills including responsive design, form handling, and third-party API integration.git add .
